@@ -20,7 +20,7 @@
     "typescript": "latest",
     "@ethersproject/providers": "^5.7.2",
     "ethers": "^5.6.5",
-    "viem": "^0.1.22"
+    "viem": "^0.3.50"
   },
   "devDependencies": {
     "@types/dompurify": "^2.4.0",
