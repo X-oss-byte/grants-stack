@@ -19,7 +19,7 @@
     "@heroicons/react": "^2.0.11",
     "@lagunovsky/redux-react-router": "^2.2.0",
     "@pinata/sdk": "^1.1.26",
-    "@rainbow-me/rainbowkit": "^0.7.2",
+    "@rainbow-me/rainbowkit": "^0.12.18",
     "@redux-devtools/extension": "^3.2.3",
     "@tailwindcss/line-clamp": "^0.4.2",
     "@tailwindcss/typography": "^0.5.9",
